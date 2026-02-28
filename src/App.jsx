@@ -1,6 +1,6 @@
 import React from "react"
-import QFXKioskViewer from "./components/QFXKioskViewer"
+import BoxOfficeViewer from "./components/viewers/BoxOfficeViewer"
 
 export default function App() {
-  return <QFXKioskViewer />
+  return <BoxOfficeViewer />
 }
